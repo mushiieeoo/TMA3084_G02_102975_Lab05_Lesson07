@@ -22,7 +22,7 @@ class CarTablePage extends StatefulWidget {
 
 class _CarTablePageState extends State<CarTablePage> {
   final List<Car> cars = [
-    Car('Honda', 2021, 35000),
+    Car('Subaru', 2021, 35000),
     Car('Toyota', 2011, 6000),
     Car('BMW', 2010, 9000),
   ];
